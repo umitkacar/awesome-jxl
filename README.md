@@ -1,10 +1,10 @@
-# Collection JPEG XL
+## Collection JPEG XL
 
-## ANDROID
+### ANDROID
 - https://github.com/oupson/jxlviewer
 
-## IOS - MACOS
+### IOS - MACOS
 -  https://github.com/yllan/JXLook
 
-## PYTHON - PILLOW
+### PYTHON - PILLOW
 -  https://github.com/olokelo/jxlpy
