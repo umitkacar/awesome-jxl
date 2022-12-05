@@ -8,3 +8,6 @@
 
 ### PYTHON - PILLOW
 -  https://github.com/olokelo/jxlpy
+
+### QT
+- https://github.com/novomesk/qt-jpegxl-image-plugin
